@@ -9,7 +9,7 @@ Currently, I'm a student with passion for programming! My biggest interests are 
 
 * 🌍  I'm based in Moldova
 * ✉️  You can contact me at [ruxanda.vovc@isa.utm.md](mailto:ruxanda.vovc@isa.utm.md)
-* 🚀  I'm currently working on [Fronted Courses](http://github.com/vovcruxanda/Curs_frontend)
+* 🚀  I'm currently working on [Fronted Courses Projects](http://github.com/vovcruxanda/Curs_frontend)
 * 🧠  I'm learning FrontEnd and Artificial Intelligence
 * ⚡  Secretely, love drawing & painting :)
 
