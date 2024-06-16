@@ -1,10 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vovc Ruxanda
+Hi there, I'm Vovc Ruxanda 👋
 ====================================================================================================================================
 
 Student FCIM UTM
 ----------------
 
-Currently, I'm a student that is eagerly learning about programming! My biggest interests are AI and FrontEnd!
+## 🚀 About Me
+Currently, I'm a student with passion for programming! My biggest interests are AI and FrontEnd!
 
 * 🌍  I'm based in Moldova
 * ✉️  You can contact me at [ruxanda.vovc@isa.utm.md](mailto:ruxanda.vovc@isa.utm.md)
