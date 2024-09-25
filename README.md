@@ -15,7 +15,7 @@ Currently, I'm a student with passion for programming! My biggest interests are 
 * 🧠  I'm learning FrontEnd and Artificial Intelligence
 * ⚡  Secretely, love drawing & painting :)
 
-### Skills
+<h2 align = "center">Skills:</h2>
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
@@ -45,13 +45,46 @@ Currently, I'm a student with passion for programming! My biggest interests are 
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 </p>
 
-### Socials
-
-<p align="left"> <a href="https://www.facebook.com/ruxanda.vovc.9/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/vovcruxanda" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ruxanda-vovc-61616a243/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
 <h2 align = "center">GitHub Stats:</h2>
 
-   <p align = "center">
-    <img src = "(https://github-readme-stats.vercel.app/api/top-langs/?username=ecaterinast&layout=compact)](https://github.com/ecaterinast/github-readme-stats)">
-  <img src="https://github-readme-stats.vercel.app/api?username=ecaterinast&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=0d1117" alt="Xccelerator's GitHub Stats" />
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=vovcruxanda&theme=omni" alt="GitHub Streak" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/vovcruxanda/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vovcruxanda&show_icons=true&theme=omni" />
+  </a>
+  <a href="https://github.com/vovcruxanda/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vovcruxanda&theme=omni&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
+
+<h2 align="center">Contact Me!</h2>
+<p align="center"> 
+  <a href="https://www.facebook.com/ruxanda.vovc.9/" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" style="margin: 20 20 px;" /> 
+    </picture> 
+  </a> 
+  <a href="https://www.github.com/vovcruxanda" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="margin: 20 20 px;" /> 
+    </picture> 
+  </a> 
+  <a href="https://www.linkedin.com/in/ruxanda-vovc-61616a243/" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" style="margin: 20 20 px;" /> 
+    </picture> 
+  </a>
 </p>
+
+
