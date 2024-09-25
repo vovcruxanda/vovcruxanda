@@ -1,4 +1,8 @@
-*'Hello, world!'*, I'm Vovc Ruxanda 👋
+<p align="center">
+  <a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pxeTA0dzNlZmM0aHViY3F4ZW81MGNvMjFpam8zMG1kcmFqeDMwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U9FoAjJnHqHTAX2tDM/giphy.gif">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pxeTA0dzNlZmM0aHViY3F4ZW81MGNvMjFpam8zMG1kcmFqeDMwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U9FoAjJnHqHTAX2tDM/giphy.gif" alt="Gif Image" />
+  </a>
+</p>
 ====================================================================================================================================
 
 Student FCIM UTM
