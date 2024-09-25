@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pxeTA0dzNlZmM0aHViY3F4ZW81MGNvMjFpam8zMG1kcmFqeDMwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U9FoAjJnHqHTAX2tDM/giphy.gif">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2pxeTA0dzNlZmM0aHViY3F4ZW81MGNvMjFpam8zMG1kcmFqeDMwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U9FoAjJnHqHTAX2tDM/giphy.gif" alt="Gif Image" />
+  <a href="https://www.pinterest.com/pin/643451865504790507/">
+    <img src="https://www.pinterest.com/pin/643451865504790507/" alt="Gif Image" />
   </a>
 </p>
 ====================================================================================================================================
