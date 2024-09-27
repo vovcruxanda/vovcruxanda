@@ -6,7 +6,7 @@
 
 ----------------
 
-## ✨My name is, **Ruxanda**!✨
+## ✨My name is **Ruxanda**!✨
 Currently, I'm a student with passion for programming! My biggest interests are AI and FrontEnd!
 
 * 🌍  I'm based in Moldova
