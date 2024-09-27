@@ -6,14 +6,14 @@
 
 ----------------
 
-## 🚀 About Me
+## ✨My name is, **Ruxanda**!✨
 Currently, I'm a student with passion for programming! My biggest interests are AI and FrontEnd!
 
 * 🌍  I'm based in Moldova
 * ✉️  You can contact me at [ruxanda.vovc@isa.utm.md](mailto:ruxanda.vovc@isa.utm.md)
 * 🚀  I'm currently working on [Fronted Courses Projects](http://github.com/vovcruxanda/Curs_frontend)
 * 🧠  I'm learning FrontEnd and Artificial Intelligence
-* ⚡  Secretely, love drawing & painting :)
+* ⭐️  Secretely, love drawing & painting :)
 
 <h2 align = "center">Skills:</h2>
 
@@ -91,30 +91,3 @@ Currently, I'm a student with passion for programming! My biggest interests are 
     </picture> 
   </a>
 </p>
-
-- uses: Platane/snk@v3
-  with:
-    # github user name to read the contribution graph from (**required**)
-    # using action context var `github.repository_owner` or specified user
-    github_user_name: ${{ github.vovcruxanda }}
-
-    # list of files to generate.
-    # one file per line. Each output can be customized with options as query string.
-    #
-    #  supported options:
-    #  - palette:     A preset of color, one of [github, github-dark, github-light]
-    #  - color_snake: Color of the snake
-    #  - color_dots:  Coma separated list of dots color.
-    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-    #                 Exactly 5 colors are expected.
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-example
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
